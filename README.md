@@ -22,10 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalirishik&show_icons=true&locale=en&layout=compact" alt="kalirishik" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Kalirishik" alt="kalirishik" /></p>
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kalirishik?theme=dark&font=Marcellus&ext=activity)
-
+<p><img align="left" src="https://leetcard.jacoblin.cool/Kalirishik?theme=dark&font=Marcellus&ext=activity" alt="kalirishik" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalirishik&bg_color=0d0c0d&color=cb0b0b&line=38d219&point=c0b9b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
