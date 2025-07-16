@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kali Rishi K</h1>
 <image align="right" width="400px" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.1.1049503562.1700200876&semt=ais">
 
-- 🌱 I’m currently learning **Mern Stack Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kalirishik](https://github.com/kalirishik)
 
 - 📫 How to reach me **kalirishik@gmail.com**
