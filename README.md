@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Java Developer | Spring Boot | SQL | Problem Solver</h3>
 <h1 align="center">Hi 👋, I'm Kali Rishi K</h1>
 <image align="right" width="400px" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.1.1049503562.1700200876&semt=ais">
 
@@ -16,38 +16,75 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> -->
-
 <p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
+
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+
+  <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+
+  <!-- Spring Boot -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
   </a> 
+
+  <!-- Hibernate -->
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> 
   </a>
+
+  <!-- JUnit -->
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="junit" width="80" height="40"/> 
   </a>
+
+  <!-- H2 Database -->
   <a href="https://www.h2database.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/H2-Database-blue" alt="h2 database" width="80" height="40"/> 
   </a>
+
+  <!-- Spring Data JPA -->
   <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Spring%20Data%20JPA-brightgreen" alt="spring data jpa" width="100" height="40"/> 
   </a>
+
+  <!-- Mockito -->
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/2678857?s=200&v=4" alt="mockito" width="40" height="40"/> 
+  </a>
+
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/> 
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+
+  <!-- MySQL Workbench -->
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-Workbench-orange" alt="mysql workbench" width="120" height="40"/> 
+  </a>
+
+  <!-- JDBC -->
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/JDBC-Driver-red" alt="jdbc" width="80" height="40"/> 
   </a>
 </p>
 
