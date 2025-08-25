@@ -86,14 +86,19 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/> 
   </a>
+  <!-- MySQL Workbench -->
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-Workbench-orange" alt="mysql workbench" width="120" height="40"/> 
+  </a>
+  <!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+
 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <!-- MySQL Workbench -->
-  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MySQL-Workbench-orange" alt="mysql workbench" width="120" height="40"/> 
   </a>
 </p>
 <hr>
