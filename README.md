@@ -74,6 +74,18 @@
 
 ---
 
+<h3 align="left">🧠 LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kalirishik?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kalirishik?theme=light&ext=heatmap" />
+</p>
+
+---
+
 <h3 align="left">💡 About Me</h3>
 
 - 🚀 Passionate about building **Full Stack Applications**
