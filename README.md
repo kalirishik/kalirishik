@@ -1,7 +1,7 @@
 <h3 align="center">Full Stack Developer | Java | Spring Boot | React | Problem Solver</h3>
 <h1 align="center">Hi 👋, I'm Kali Rishi K</h1>
 
-<img align="right" width="350px" src="https://img.freepik.com/free-vector/programmer-working-concept-illustration_114360-2417.jpg" />
+<!-- <img align="right" width="350px" src="https://img.freepik.com/free-vector/programmer-working-concept-illustration_114360-2417.jpg" /> -->
 
 - 👨‍💻 All of my projects are available at  
   🔗 https://github.com/kalirishik
