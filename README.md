@@ -56,9 +56,9 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kalirishik&show_icons=true&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalirishik&show_icons=true&layout=compact&theme=tokyonight"/>
@@ -76,9 +76,9 @@
 
 <h3 align="left">🧠 LeetCode Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kalirishik?theme=dark&font=Karma&ext=contest" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kalirishik?theme=light&ext=heatmap" />
